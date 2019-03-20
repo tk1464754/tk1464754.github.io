@@ -7,7 +7,7 @@
 
 # Site settings
 title: My Blog
-brief-intro: Android and Python Coder
+brief-intro: Java Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tk1464754.github.io" # the base hostname & protocol for your site
 
